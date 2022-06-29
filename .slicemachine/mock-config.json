@@ -1,0 +1,14 @@
+{
+  "_cts": {
+    "Posts": {
+      "content": {
+        "nody": {
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
+        }
+      }
+    }
+  }
+}

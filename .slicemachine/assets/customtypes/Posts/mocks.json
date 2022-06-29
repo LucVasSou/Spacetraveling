@@ -1,0 +1,51 @@
+{
+  "id": "b28aae51-60f8-4227-9554-f110ce8b05c9",
+  "uid": "non-eos-dolorum",
+  "type": "Posts",
+  "data": {
+    "title": "implement sexy niches",
+    "subtitle": "architect next-generation web-readiness",
+    "author": "monetize best-of-breed e-commerce",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "extend front-end portals",
+        "nody": [
+          {
+            "type": "paragraph",
+            "text": "Laborum ut ut nulla qui esse reprehenderit duis tempor velit minim qui fugiat. Ipsum sunt adipisicing do consequat irure. Culpa do velit laborum sint sint laborum non pariatur adipisicing proident elit minim eiusmod exercitation cillum.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "matrix extensible relationships",
+        "nody": [
+          {
+            "type": "paragraph",
+            "text": "Deserunt mollit fugiat voluptate ex amet consectetur pariatur. Adipisicing reprehenderit id officia dolore proident nulla minim cupidatat. Veniam excepteur et ea laboris consequat occaecat pariatur ex consectetur Lorem non velit incididunt.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "harness next-generation systems",
+        "nody": [
+          {
+            "type": "paragraph",
+            "text": "Aliqua amet elit irure aliqua id ipsum ex ex consequat aliqua. Laboris consequat enim ut consequat ex. Veniam incididunt esse ipsum officia incididunt occaecat sunt voluptate incididunt labore eiusmod laboris.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
